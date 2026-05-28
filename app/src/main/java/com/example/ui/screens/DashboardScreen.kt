@@ -69,7 +69,7 @@ fun DashboardScreen(navController: NavController, viewModel: NexusViewModel) {
                         letterSpacing = 2.sp
                     )
                     Text(
-                        text = "SHADOW SYSTEM",
+                        text = "HOME WORKOUT BY NEXUS",
                         color = Color.White,
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Black,

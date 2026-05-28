@@ -1,5 +1,5 @@
 {
-  "name": "Shadow System",
+  "name": "Home Workout by Nexus",
   "description": "Solo Leveling anime style zero-to-hero workout app with offline tracking, voice guidance, and AI diet planning.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
